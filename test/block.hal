@@ -1,0 +1,5 @@
+let
+   a :: Int = 5;
+   b :: Int = a + 1
+in
+   a * b

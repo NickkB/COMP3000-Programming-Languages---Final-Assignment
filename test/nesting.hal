@@ -1,0 +1,7 @@
+(let a :: Int = 3
+ in  a + 1
+)
+*
+(let b :: Int = 10
+ in b - 1
+)
